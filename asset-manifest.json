@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/React-Basic-website/static/css/main.ad425d45.chunk.css",
+    "main.js": "/React-Basic-website/static/js/main.45d647be.chunk.js",
+    "main.js.map": "/React-Basic-website/static/js/main.45d647be.chunk.js.map",
+    "runtime-main.js": "/React-Basic-website/static/js/runtime-main.78dfd0ae.js",
+    "runtime-main.js.map": "/React-Basic-website/static/js/runtime-main.78dfd0ae.js.map",
+    "static/css/2.74c02967.chunk.css": "/React-Basic-website/static/css/2.74c02967.chunk.css",
+    "static/js/2.6db63c78.chunk.js": "/React-Basic-website/static/js/2.6db63c78.chunk.js",
+    "static/js/2.6db63c78.chunk.js.map": "/React-Basic-website/static/js/2.6db63c78.chunk.js.map",
+    "static/js/3.e212062c.chunk.js": "/React-Basic-website/static/js/3.e212062c.chunk.js",
+    "static/js/3.e212062c.chunk.js.map": "/React-Basic-website/static/js/3.e212062c.chunk.js.map",
+    "index.html": "/React-Basic-website/index.html",
+    "static/css/2.74c02967.chunk.css.map": "/React-Basic-website/static/css/2.74c02967.chunk.css.map",
+    "static/css/main.ad425d45.chunk.css.map": "/React-Basic-website/static/css/main.ad425d45.chunk.css.map",
+    "static/js/2.6db63c78.chunk.js.LICENSE.txt": "/React-Basic-website/static/js/2.6db63c78.chunk.js.LICENSE.txt",
+    "static/media/about.e3845b20.jpg": "/React-Basic-website/static/media/about.e3845b20.jpg",
+    "static/media/android.82407497.jpg": "/React-Basic-website/static/media/android.82407497.jpg",
+    "static/media/app.e9a545ee.jpg": "/React-Basic-website/static/media/app.e9a545ee.jpg",
+    "static/media/logo.6ce24c58.svg": "/React-Basic-website/static/media/logo.6ce24c58.svg",
+    "static/media/marketing.1cb02243.jpg": "/React-Basic-website/static/media/marketing.1cb02243.jpg",
+    "static/media/sales.8faf0ab3.jpg": "/React-Basic-website/static/media/sales.8faf0ab3.jpg",
+    "static/media/service.e9a545ee.jpg": "/React-Basic-website/static/media/service.e9a545ee.jpg",
+    "static/media/software.e24bf3cb.jpg": "/React-Basic-website/static/media/software.e24bf3cb.jpg",
+    "static/media/technical.086320e0.jpg": "/React-Basic-website/static/media/technical.086320e0.jpg",
+    "static/media/website.816c9c37.jpg": "/React-Basic-website/static/media/website.816c9c37.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78dfd0ae.js",
+    "static/css/2.74c02967.chunk.css",
+    "static/js/2.6db63c78.chunk.js",
+    "static/css/main.ad425d45.chunk.css",
+    "static/js/main.45d647be.chunk.js"
+  ]
+}
