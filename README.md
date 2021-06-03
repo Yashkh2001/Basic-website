@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# DEPLOYMENT
+
+This project is deployed on https://yashkh2001.github.io/React-Basic-Website/
+
 ## Available Scripts
 
 In the project directory, you can run:
