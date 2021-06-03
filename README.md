@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # DEPLOYMENT
 
-This project is deployed on https://yashkh2001.github.io/React-Basic-Website/
+This project is deployed on https://yashkh2001.github.io/React-Basic-website/
 
 ## Available Scripts
 
